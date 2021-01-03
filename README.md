@@ -1,3 +1,3 @@
 #AntiFrostwalker
 
-Writted for https://ardania.de/
+Written for https://ardania.de/
