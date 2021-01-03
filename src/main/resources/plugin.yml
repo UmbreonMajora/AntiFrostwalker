@@ -1,0 +1,9 @@
+main: me.umbreon.antifrostwalker.AntiFrostwalker
+name: AntiFrostwalker
+version: 1.0.0
+author: Umbreon
+description: Disables enchantment "Frostwalker"
+api-version: 1.16
+load: POSTWORLD
+commands:
+  antifrostwalker:
